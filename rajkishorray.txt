@@ -1,0 +1,4 @@
+name=gautam kumar
+course_code=int331
+roll_no=21
+section_name=ko021
